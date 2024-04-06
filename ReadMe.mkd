@@ -1,0 +1,15 @@
+# Traveau pratique du cour << Projet Statistique sous R >>
+
+### Description du projet:
+
+Il s'agit de repondre aux questions pose dans le document projet_R.docx ## a mettre en italique
+
+### Choix de l'etudiant
+Au vue de la maniere dont est ficele les questions, il me semble que travailler avec des notesbooks est la solution la plus adequate .
+Elles sont interactives et incorporent en eux tous l'aspect pratique en terme de lisibilite d'un fichier html generer par Rmarkdown   
+### Organisation du projet
+* le fichier verification_installation_dependances.ipynb doit etre executer pour installer les eventuelles packages manquantes
+* Le jeux de donnee se trouve dans le repertoite data
+* projet_R.docx contient l'enonce du TP
+* le fichier main.ipynb contient le script du projet
+* main.html est la version html de main.ipynb
